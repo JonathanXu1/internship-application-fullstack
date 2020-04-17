@@ -1,0 +1,8 @@
+name = "worker"
+type = "javascript"
+account_id = "f09454955f9318358641dbb4855cd641"
+workers_dev = true
+
+[env.production]
+zone_id = "f4207a9f5fba84326f9b326ac5e0767d"
+route = "worker.jonathanxu.tk/*"
